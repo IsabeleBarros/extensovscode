@@ -3,3 +3,8 @@ Live Server
 autopep8
 Lorem Ipsum
 Drácula Official
+
+O live server serve para visualizar o que está se codando ao vivoo por uma tela de navegador.
+o autopep8 é uma extensão de formatação para a linguagem Python
+Lorem Ipsum é um gerador de texto para exemplificar como fica os parágrafos.
+Drácula é uma extensão para personalização de cores dos códigos, o que facilita a visualização.
